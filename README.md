@@ -1,1 +1,1 @@
-# java_script_curso
+# JS
