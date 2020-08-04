@@ -21,7 +21,6 @@
 
 <p align="center">
   <a href="#about">About</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#license">License</a>
 </p>
 
 <br>
@@ -31,7 +30,3 @@
 
 Learning JavaScript. A language to execute scripts on client side and server side (using nodeJS).
 
-
-### License
-
-This project uses the MIT license. Read [LICENSE](LICENSE.txt) for details.
