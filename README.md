@@ -1,5 +1,5 @@
 
-#JavaScript
+##JavaScript
 
 <p align="center">
 
@@ -27,11 +27,11 @@
 <br>
 
 
-## About
+### About
 
 Learning JavaScript. A language to execute scripts on client side and server side (using nodeJS).
 
 
-## License
+### License
 
 This project uses the MIT license. Read [LICENSE](LICENSE.txt) for details.
